@@ -1,0 +1,17 @@
+@font-face {
+  font-family: MarkPro;
+  src: url("https://ui-library.cdn.vpsvc.com/fonts/MarkWeb-Light_modified.woff")
+    format("woff");
+}
+@font-face {
+  font-family: MarkPro;
+  src: url("https://ui-library.cdn.vpsvc.com/fonts/MarkWeb-Bold_modified.woff")
+    format("woff");
+  font-weight: bold;
+}
+@font-face {
+  font-family: MarkPro;
+  src: url("https://ui-library.cdn.vpsvc.com/fonts/MarkWeb-Medium_modified.woff")
+    format("woff");
+  font-weight: 600;
+}
